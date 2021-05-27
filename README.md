@@ -62,8 +62,8 @@ expo start
 
 The application can be executed in two ways:
 
-- Using visual interface (that opens automatically after **yarn start** or **npm start**)
-- Using commands via terminal (the options will be shown after execute **yarn start** or **npm start**)
+- Using visual interface (that opens automatically after **expo start**)
+- Using commands via terminal (the options will be shown after execute **expo start**)
 
 ### Running Application via Interface:
 
