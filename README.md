@@ -54,16 +54,8 @@ After installation, the project can be considered configured and ready to run.
 
 Assuming you are in the root directory via a terminal, run the following command to run Expo:
 
-1. Using Yarn:
-
 ```
-yarn start
-```
-
-2. Using NPM:
-
-```
-npm start
+expo start
 ```
 
 ## Running Application:
